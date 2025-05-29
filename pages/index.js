@@ -2,7 +2,7 @@ import { Card, CardContent } from "../components/ui/card";
 import { Button } from "../components/ui/button";
 import Link from "next/link";
 
-export default function HeatHackers() {
+export default function Home() {
   const products = [
     {
       name: "Smart Portable Neck Fan",
